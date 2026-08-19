@@ -10,5 +10,6 @@
 10. python manage.py  complete_reporting_dept_interest
 11. python manage.py complete_reporting_legislated_tenure
 12. python manage.py complete_reporting_state_forest
+13. test
     
 
